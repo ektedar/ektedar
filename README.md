@@ -34,5 +34,5 @@
 <br />
 
 
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/always_ekstra_/
+[linkedin]: https://www.linkedin.com/in/ektedaralam/
