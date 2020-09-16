@@ -1,6 +1,6 @@
 ### Hi, I'm Ektedar 👋
 
-## I'm mostly a Backend Software Engineer! 
+## I'm a Backend Software Engineer! 
 
 - 🔭 I’m currently employed Full-Time!
 - 🌱 I’m currently learning everything. Given the time that I have
