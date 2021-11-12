@@ -5,12 +5,6 @@
 - 🔭 I’m currently employed Full-Time!
 - 🌱 I’m currently learning everything. Given the time that I have
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: 
-  1. Contribute more to Open Source projects
-  2. Learn Front-end Development
-  3. Improve Object Oriented Development Skills
-  4. Improve problem solving algorithm skills
-  5. Get AWS Developers Associate Certificate
 
 ### Connect with me:
 
