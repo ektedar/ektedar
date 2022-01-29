@@ -1,6 +1,7 @@
-### Hi, I'm Ektedar 👋
+### Hi, I'm Ektedar
 
 I never know what I am doing but I will figure it out.
+
 
 ### Connect with me:
 
