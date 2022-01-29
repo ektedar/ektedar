@@ -1,10 +1,6 @@
 ### Hi, I'm Ektedar 👋
 
-## I'm a Backend Software Engineer! 
-
-- 🔭 I’m currently employed Full-Time!
-- 🌱 I’m currently learning everything. Given the time that I have
-- 👯 I’m looking to collaborate with other content creators
+I never know what I am doing but I will figure it out.
 
 ### Connect with me:
 
@@ -30,6 +26,4 @@
 <br />
 <br />
 
-
-[instagram]: https://www.instagram.com/always_ekstra_/
 [linkedin]: https://www.linkedin.com/in/ektedaralam/
