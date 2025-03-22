@@ -1,6 +1,6 @@
 ### Hi, I'm Ektedar
 
-I never know what I am doing but I will figure it out.
+Welcome to my GitHub
 
 
 ### Connect with me:
